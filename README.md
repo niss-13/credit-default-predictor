@@ -1,10 +1,12 @@
 # credit-default-predictor
 A project on machine learning . where credit card default of user is predicted
 
-# A credit card default prediction model is a machine learning or statistical model designed to predict the likelihood that a credit card holder will default on their payments. Default occurs when a cardholder is unable to make the required minimum payment on their credit card debt.
+# A credit card default prediction model :
+machine learning or statistical model designed to predict the likelihood that a credit card holder will default on their payments. Default occurs when a cardholder is unable to make the required minimum payment on their credit card debt.
 
-# 1. First the raw data is taken from website like https://www.kaggle.com/
- Data Preprocessing sanity test is performed which gives us information of the data like is there any null values . data type , dupliacted values if any . 
+# 1. First the raw data is taken from website 
+https://www.kaggle.com/
+Data Preprocessing sanity test is performed which gives us information of the data like is there any null values . data type , dupliacted values if any . 
 
 After sanity check is been performed
 # 2.  EDA (Exploratry data analysis) is performed 
